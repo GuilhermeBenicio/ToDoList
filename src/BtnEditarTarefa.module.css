@@ -1,0 +1,9 @@
+.btnEditar {
+  display: inline-block;
+  background-color: #a85cfe;
+  color: white;
+  font-weight: bold;
+  padding: 0 0.4rem;
+  border: none;
+  cursor: pointer;
+}

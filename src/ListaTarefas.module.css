@@ -1,0 +1,32 @@
+.tarefas {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 0.3rem;
+  margin-bottom: 0.3rem;
+  background-color: #fcfcfc;
+  padding: 0.8rem;
+  border: 0.2rem;
+}
+
+.tarefa {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.btn {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.edittask {
+  display: grid;
+  gap: 0.2rem;
+  grid-template-columns: 1fr auto;
+}
+
+.textarea {
+  width: 100%;
+  resize: none;
+  padding: 0.3rem;
+}
